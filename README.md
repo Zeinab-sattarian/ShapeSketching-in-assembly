@@ -51,11 +51,11 @@ This repository contains an assembly language program that demonstrates simple g
 
 1. **Assemble the Code**: Use an assembler like MASM or TASM to convert the source code into an executable file.
    ```bash
-   masm filename.asm;
+   masm shapesketching.asm;
    ```
 2. **Link the Executable**: Use a linker to create an executable file.
    ```bash
-   link filename.obj;
+   link shapesketching.obj;
    ```
 3. **Run the Program**: Execute the generated `.exe` file in a DOS environment or DOS emulator like DOSBox.
 
